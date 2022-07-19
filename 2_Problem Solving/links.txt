@@ -1,0 +1,2 @@
+Problem Solving Approach Links - https://cs.slides.com/colt_steele/problem-solving-patterns
+Problem Solving Patterns - https://cs.slides.com/colt_steele/problem-solving-patterns
